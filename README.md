@@ -56,7 +56,6 @@ who likes create something beautiful and solving problem for a better experience
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjinpark&layout=compact)](https://github.com/iamjinpark/github-readme-stats)
 
 ## Contact 📞
-<a href="https://velog.io/@iamjinpark"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link="https://velog.io/@iamjinpark"/></a> 
 <a href="mailto:wldls7754@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wldls7754@gmail.com"/></a>
 
 <div/>
