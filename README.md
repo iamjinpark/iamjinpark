@@ -37,7 +37,7 @@ who likes create something beautiful and solving problem for a better experience
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vue&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-964B00?style=flat&logo=Zustand&logoColor=white"/>
 
