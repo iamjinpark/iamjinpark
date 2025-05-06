@@ -1,30 +1,12 @@
-<!--
-**iamjinpark/iamjinpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamjinpark&count_bg=%23FFC0CB&title_bg=%23645858&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=header&text=WELCOME%20TO%20JIN'S%20GITHUB!&fontSize=30&fontColor=ffffff" />
-
-  
 ## Hi there 👋🏻
-안녕하세요! 신입 프론트엔드 개발자 박지인 입니다. <br/>
+안녕하세요! 프론트엔드 개발자 박지인 입니다. <br/>
 
 Hello I'm Jin and Front-End developer <br/>
 who likes create something beautiful and solving problem for a better experience!
-
 
 
 ## Tech Stack 🛠️
